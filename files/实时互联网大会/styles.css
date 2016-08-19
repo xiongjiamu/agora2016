@@ -17,7 +17,7 @@
   left:0px;
   top:0px;
   width:1140px;
-  height:530px;
+  height:960px;
   background:inherit;
   background-color:rgba(242, 242, 242, 1);
   border:none;
@@ -31,12 +31,12 @@
   left:115px;
   top:41px;
   width:1140px;
-  height:530px;
+  height:960px;
 }
 #u1 {
   position:absolute;
   left:2px;
-  top:257px;
+  top:472px;
   width:1136px;
   visibility:hidden;
   word-wrap:break-word;
